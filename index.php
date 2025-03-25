@@ -1,4 +1,4 @@
 <?php
-echo "Hola Mundo";
-echo "Soy Nadia";
+echo "Hola a todos y todas, que tengan un excelente dia";
+
 ?>
